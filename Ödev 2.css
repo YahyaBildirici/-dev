@@ -1,0 +1,27 @@
+.hakkımda{
+    display: inline-block;
+    color: red;
+}
+.Dizi{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.Özet{
+    display: inline-block;
+    color: red;
+}
+#hobi{
+    color: lightblue;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: lightblue;
+}
+.Hakkımda{
+    color: red;
+}
+h3{
+    color: red;
+}
