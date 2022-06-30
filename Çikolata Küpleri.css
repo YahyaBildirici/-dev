@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: brown;
+}
+b{
+    color: brown;
+}
+.ortala{
+    text-align: center;
+    
+}
+.arkaplan{
+    color: white;
+    background-color:  brown;
+    border-radius: 100px;
+    max-width: 10cm;
+    text-align: center;
+}
